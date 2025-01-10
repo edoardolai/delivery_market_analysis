@@ -1,0 +1,7 @@
+matplotlib
+pandas
+matplotlib-venn
+ipykernel
+seaborn
+numpy
+geopandas
